@@ -1,0 +1,17 @@
+Langages compilés: code source => compilateur => binaire (01001)
+=> produit un fichier executable .exe
+
+Langages interprétés: code source => interpréteur => binaire
+
+4 types simples: str, int, float, bool
+
+Utiliser un éditeur de texte pour saisir le code source (ex: Atom)
+
+
+3 fondamentaux de tout langage
+1. Variables
+2. Conditions
+3. Itérations
+
+Horaires
+9h30-13 ; 14-17
