@@ -1,17 +1,18 @@
-Langages compilés: code source => compilateur => binaire (01001)
+Langages compilï¿½s: code source => compilateur => binaire (01001)
 => produit un fichier executable .exe
 
-Langages interprétés: code source => interpréteur => binaire
+Langages interprï¿½tï¿½s: code source => interprï¿½teur => binaire
 
 4 types simples: str, int, float, bool
 
-Utiliser un éditeur de texte pour saisir le code source (ex: Atom)
+Utiliser un Ã©diteur de texte pour saisir le code source (ex: Atom)
+https://github.com/cdufour/python-asrbd41
 
-
-3 fondamentaux de tout langage
+4 fondamentaux de tout langage
 1. Variables
 2. Conditions
-3. Itérations
+3. ItÃ©rations
+4. Fonctions
 
 Horaires
 9h30-13 ; 14-17
