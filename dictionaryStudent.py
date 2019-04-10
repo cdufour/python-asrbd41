@@ -1,10 +1,7 @@
 # dictionaryStudent.py
-
-def listAverage(values):
-    sum = 0
-    for value in values:
-        sum += value
-    return sum / len(values)
+# from précise le fichier source (sans préciser .py)
+# import permet d'indiquer la ou les fonctions à importer
+from utils import listAverage
 
 student1 = {'firstname':'Yassine', 'lastname':'El Khazraji', 'country':'Maroc', 'notes':[4,20,13]}
 student2 = {'firstname':'Samba', 'lastname':'Lek', 'country':'Guinée', 'notes':[19,19,19]}
